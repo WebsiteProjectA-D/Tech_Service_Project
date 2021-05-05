@@ -189,13 +189,24 @@ img{
 }
 .about__subtitle{
     margin-bottom: var(--mb-2);
+
 }
 .about__img{
     justify-self: center;
+    margin-top: 20px;
 }
 .about__img img{
     width: 200px;
     border-radius: .5rem;
+}
+.about__video{
+    justify-self: center;
+    margin-top: 30px;
+    padding: 20px 25px 15px 100px;
+}
+.centrer{
+    text-align: center;
+    margin-top: 30px;
 }
 
 /* ===== SKILLS =====*/
@@ -260,8 +271,9 @@ img{
 }
 .work__img{
     box-shadow: 0 4px 25px rgba(14,36,49,.15);
-    border-radius: .5rem;
+    border-radius: 1.8rem;
     overflow: hidden;
+
 }
 .work__img img{
     transition: 1s;
