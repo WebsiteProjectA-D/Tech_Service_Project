@@ -14,7 +14,7 @@
 
 /*===== Fuente y tipografia =====*/
 :root{
-    --body-font: 'Poppins', sans-serif;
+    --body-font: 'Poppins', cursive;
     --big-font-size: 1rem;
     --h2-font-size: 1.25rem;
     --normal-font-size: 0.938rem;
@@ -492,7 +492,7 @@ img{
     bottom: 0px;
     font-size: 14px;
     color: #B4B4B4;
-    font-family: calibri;
+    font-family: cursive;
     letter-spacing: 5px;
     width: 100%;
     text-align: center;
